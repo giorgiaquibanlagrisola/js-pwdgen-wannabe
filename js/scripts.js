@@ -13,3 +13,7 @@ console.log('userName', userName, typeof userName);
 // 2) poi chiedi il suo cognome
 const userSurname = prompt('Scrivi il tuo cognome');
 console.log('userSurname', userSurname, typeof userSurname);
+
+// 3) chiedi il colore preferito
+const userColor = prompt('Scrivi il tuo colore preferito');
+console.log('userColor', userColor, typeof userColor);
