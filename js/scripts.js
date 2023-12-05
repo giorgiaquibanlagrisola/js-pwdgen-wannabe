@@ -7,6 +7,9 @@
 
 */
 // 1) Chiedi all'utente il suo nome
-const userName = prompt('Dimmi il tuo nome');
-console.log('userName',userName,typeof userName);
+const userName = prompt('Scrivi il tuo nome');
+console.log('userName', userName, typeof userName);
 
+// 2) poi chiedi il suo cognome
+const userSurname = prompt('Scrivi il tuo cognome');
+console.log('userSurname', userSurname, typeof userSurname);
