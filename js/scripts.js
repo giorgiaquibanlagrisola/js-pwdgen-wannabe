@@ -17,3 +17,6 @@ console.log('userSurname', userSurname, typeof userSurname);
 // 3) chiedi il colore preferito
 const userColor = prompt('Scrivi il tuo colore preferito');
 console.log('userColor', userColor, typeof userColor);
+
+// 4) scrivi sulla pagina nomecognomecolorepreferito114
+document.writeln(userName+userSurname+userColor+'114')
